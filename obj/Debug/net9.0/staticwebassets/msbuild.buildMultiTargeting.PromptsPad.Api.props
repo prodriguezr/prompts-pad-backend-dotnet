@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PromptsPad.Api.props" />
+</Project>

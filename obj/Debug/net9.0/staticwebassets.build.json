@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aPQYTPDaueBUqSlYW7QPRvOXzQxNik2r1dIAdrfwCxs=",
+  "Source": "PromptsPad.Api",
+  "BasePath": "_content/PromptsPad.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

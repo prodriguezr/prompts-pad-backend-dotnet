@@ -1,0 +1,7 @@
+{
+  "dotnet.install.enable": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSaveMode": "modifications",
+  "editor.formatOnSaveOptions": {}
+}
